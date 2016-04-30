@@ -1,0 +1,11 @@
+D:\聂心明的编程文件\Frequency\Frequency\bin\Debug\Frequency.exe.config
+D:\聂心明的编程文件\Frequency\Frequency\bin\Debug\Frequency.exe
+D:\聂心明的编程文件\Frequency\Frequency\bin\Debug\Frequency.pdb
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.csprojResolveAssemblyReference.cache
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.Form1.resources
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.Properties.Resources.resources
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.csproj.GenerateResource.Cache
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.exe
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.pdb
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.Form2.resources
+D:\聂心明的编程文件\Frequency\Frequency\obj\Debug\Frequency.Form3.resources
